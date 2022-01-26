@@ -486,7 +486,7 @@
 
 "detail-off" = "Detail Aus";
 
-"dim" = "Verdunkeln";
+"dim" = "Dimmen";
 
 "dim-level" = "Dimmstufe";
 
@@ -535,6 +535,8 @@
 "dsk %lld" = "DSK %lld";
 
 "duplicate" = "Duplicate";
+
+"duration" = "Dauer";
 
 "dve" = "DVE";
 
@@ -686,7 +688,7 @@
 
 "enable-visual-editor" = "Vorschaueditor";
 
-"eng-talk" = "Eng Talk";
+"eng-talk" = "Regie-Talkback";
 
 "equalizer" = "Equalizer";
 
@@ -932,7 +934,7 @@
 
 "input-talkback-gain" = "Eingang Talkback Gain";
 
-"input-talkback-gain-engineering" = "Eingang Engineering Talkback Gain";
+"input-talkback-gain-engineering" = "Eingang Regie-Talkback Gain";
 
 "input1" = "Eingang 1";
 
@@ -1118,7 +1120,7 @@
 
 "locked-box-sources" = "Verriegelte Boxen-Quellen";
 
-"low-latency" = "Geringe Wartezeit";
+"low-latency" = "Geringe Verzögerungszeit";
 
 "luma" = "Luminanz";
 
@@ -1328,11 +1330,11 @@
 
 "multiview" = "Multiview";
 
-"mute" = "Mute";
+"mute" = "Stummschalten";
 
-"mute-talkback" = "Talkback Mute";
+"mute-talkback" = "Talkback stummschalten";
 
-"mute-talkback-engineering" = "Talkback Engineering Mute";
+"mute-talkback-engineering" = "Regie-Talkback stummschalten";
 
 "mv" = "MV";
 
@@ -1435,6 +1437,10 @@
 "operation-undone" = "Dieser Vorgang kann nicht rückgängig gemacht werden";
 
 "osc" = "OSC";
+
+"osc-arguments" = "OSC Parameter";
+
+"osc-path" = "OSC Pfad";
 
 "osc-port" = "OSC Port";
 
@@ -1704,7 +1710,7 @@
 
 "pro-line" = "Pro-Line";
 
-"prod-talk" = "Prod Talk";
+"prod-talk" = "Produktion-Talkback";
 
 "profile-error-save" = "Fehler beim Speichern des Profils";
 
@@ -1920,6 +1926,8 @@
 
 "select-macro" = "Makro auswählen";
 
+"send-osc-message" = "OSC Nachricht senden";
+
 "server" = "Server";
 
 "server-name" = "Name";
@@ -1998,6 +2006,14 @@
 
 "shortcut-change-transition-phrase" = "Übergangsart zu Mix einstellen";
 
+"shortcut-chroma-advanced-phrase-osc" = "OSC Chroma erweitert für USK setzen";
+
+"shortcut-chroma-advanced-phrase" = "Chroma erweitert für USK setzen";
+
+"shortcut-color-generator-phrase-osc" = "OSC Farbgenerator setzen";
+
+"shortcut-color-generator-phrase" = "Farbgenerator setzen";
+
 "shortcut-connect" = "Mit MixEffect verbinden";
 
 "shortcut-connect-description" = "Mit einem Mischer in MixEffect verbinden.";
@@ -2005,6 +2021,14 @@
 "shortcut-cut" = "Schnitt";
 
 "shortcut-cut-phrase" = "Schnitt ausführen";
+
+"shortcut-dsk-phrase-osc" = "OSC DSK setzen";
+
+"shortcut-dsk-phrase" = "DSK setzen";
+
+"shortcut-dve-phrase-osc" = "OSC DVE für USK setzen";
+
+"shortcut-dve-phrase" = "DVE für USK setzen";
 
 "shortcut-export-streaming" = "Streaming XML Datei exportieren";
 
@@ -2014,6 +2038,14 @@
 
 "shortcut-fade-to-black-phrase" = "Schwarzblende";
 
+"shortcut-luma-phrase-osc" = "OSC Luma für USK setzen";
+
+"shortcut-luma-phrase" = "Luma für USK setzen";
+
+"shortcut-pattern-phrase-osc" = "OSC Muster für USK setzen";
+
+"shortcut-pattern-phrase" = "Muster für USK setzen";
+
 "shortcut-preview-transition" = "Vorschau für Übergang";
 
 "shortcut-preview-transition-phrase" = "Vorschau-Modus für Übergang wechseln";
@@ -2021,6 +2053,28 @@
 "shortcut-run-macro" = "Makro ausführen";
 
 "shortcut-run-macro-phrase" = "Makro ausführen";
+
+"shortcut-transition-dip-phrase-osc" = "OSC Dip-Übergang setzen";
+
+"shortcut-transition-dip-phrase" = "Dip-Übergang setzen";
+
+"shortcut-transition-dve-phrase-osc" = "OSC DVE-Übergang setzen";
+
+"shortcut-transition-dve-phrase" = "DVE-Übergang setzen";
+
+"shortcut-transition-mix-phrase-osc" = "OSC Mix-Übergang setzen";
+
+"shortcut-transition-mix-phrase" = "Mix-Übergang setzen";
+
+"shortcut-transition-sting-phrase-osc" = "OSC Stinger-Übergang setzen";
+
+"shortcut-transition-sting-phrase" = "Stinger-Übergang setzen";
+
+"shortcut-transition-wipe-phrase-osc" = "OSC Wisch-Übergang setzen";
+
+"shortcut-transition-wipe-phrase" = "Wisch-Übergang setzen";
+
+"shortcut" = "Tastaturkürzel";
 
 "shortcuts" = "Tastaturkürzel";
 

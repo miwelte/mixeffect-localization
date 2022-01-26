@@ -156,7 +156,7 @@
 
 "audio-meters" = "Pegelanzeigen";
 
-"audio-monitor" = "Audiomonitor";
+"audio-monitor" = "Audio-Monitor";
 
 "audio-upload" = "Audio hochladen";
 
@@ -171,6 +171,10 @@
 "auto-supersource" = "Auto nach SuperSource";
 
 "auto-video-standard" = "Auto Video-Standard";
+
+"automation" = "Automation";
+
+"automation-create" = "Automation erstellen";
 
 "automations" = "Automationen";
 
@@ -196,7 +200,7 @@
 
 "band %lld" = "Band %lld";
 
-"band-shape" = "Band-Filtern";
+"band-shape" = "Band-Filter";
 
 "bevel-in" = "Bevel In";
 

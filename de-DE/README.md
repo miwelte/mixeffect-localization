@@ -3,11 +3,17 @@
 ## v1.4.0
 
 ### Established as new in v1.4.0 ###
+"advanced-settings" = "Advanced Settings";
 "automation-create" = "Create Automation";
 "automation" = "Automation";
+"custom-animation" = "Custom Animation";
 "duration" = "Duration";
+"interpolation-ease-in-out-elastic" = "Ease In Out Elastic";
+"interpolation-ease-out-bounce" = "Ease Out Bounce";
+"interpolation-ease-out-elastic" = "Ease Out Elastic";
 "osc-arguments" = "Arguments";
 "osc-path" = "OSC Path";
+"reconnect-forever" = "Unlimited Auto-Reconnect Attempts";
 "send-osc-message" = "";
 "shortcut-chroma-advanced-phrase-osc" = "OSC Set Chroma Advanced USK";
 "shortcut-chroma-advanced-phrase" = "Set Chroma Advanced USK";
@@ -31,6 +37,8 @@
 "shortcut-transition-sting-phrase" = "Set Sting Transition";
 "shortcut-transition-wipe-phrase-osc" = "OSC Set Wipe Transition";
 "shortcut-transition-wipe-phrase" = "Set Wipe Transition";
+"stereo" = "Stereo";
+"use-custom-animation" = "Use Custom Animation";
 
 ### Potential hiccups to revise?
 "shortcut-dve-phrase-osc" = "Set DVE USK"; <- alternate osc / none osc -> "shortcut-dve-phrase" = "OSC Set DVE USK";

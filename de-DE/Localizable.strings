@@ -78,6 +78,8 @@
 
 "advanced" = "Erweitert";
 
+"advanced-settings" = "Erweiterte Einstellungen";
+
 "aesbu" = "AES/EBU";
 
 "af-on" = "AF AN";
@@ -419,6 +421,8 @@
 "cursor-size" = "Größe des Cursors";
 
 "custom" = "Benutzerdefiniert";
+
+"custom-animation" = "Benutzerdefinierte Animation";
 
 "custom-rate" = "Benutzerdefinierte Rate …";
 
@@ -1019,6 +1023,12 @@
 "interpolation-cosine" = "Cosinus";
 
 "interpolation-cubed" = "Würfelartig";
+
+"interpolation-ease-in-out-elastic" = "Ein-/Ausblenden elastisch";
+
+"interpolation-ease-out-bounce" = "Ausblenden federnd";
+
+"interpolation-ease-out-elastic" = "Ausblenden elastisch";
 
 "interpolation-inverse-cubed" = "Umgekehrt würfelartig";
 
@@ -1762,6 +1772,8 @@
 
 "reconnect" = "Verbindung wiederherstellen";
 
+"reconnect-forever" = "Permanent wiederverbinden";
+
 "reconnect-required" = "Erneute Verbindung erforderlich";
 
 "record" = "Aufnahme";
@@ -2170,6 +2182,8 @@
 
 "startup-state-save-confirm" = "Die aktuellen Einstellungen werden beim Start des ATEM Mischers geladen.";
 
+"stereo" = "Stereo";
+
 "stereo-simulation" = "Stereo Simulation";
 
 "sticky-current-preset" = "Sticky Current Preset";
@@ -2419,6 +2433,8 @@
 "upstream-keys" = "Upstream Keys";
 
 "use-box-sources" = "Quellen der Felder verwenden";
+
+"use-custom-animation" = "Benutzerdefinierte Animation verwenden";
 
 "use-custom-speed" = "Individuelle Geschwindigkeit verwenden";
 

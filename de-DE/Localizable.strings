@@ -866,7 +866,7 @@
 
 "highlight" = "Markierung";
 
-"highlight-by" = "Markierte Box vergrößern";
+"highlight-by" = "Markiertes Feld vergrößern";
 
 "hold" = "Halten";
 
@@ -1128,7 +1128,7 @@
 
 "locked" = "Gesperrt";
 
-"locked-box-sources" = "Verriegelte Boxen-Quellen";
+"locked-box-sources" = "Verriegelte Feld-Quellen";
 
 "low-latency" = "Geringe Verzögerungszeit";
 
@@ -1290,7 +1290,7 @@
 
 "minimize" = "Minimieren";
 
-"minimize-by" = "Andere Boxen verkleinern";
+"minimize-by" = "Andere Felder verkleinern";
 
 "minimize-off-audio" = "Deaktivierte Audio-Quellen minimieren";
 
@@ -1500,35 +1500,35 @@
 
 "pattern" = "Muster";
 
-"pattern-bottomCenterBox" = "Box Unten Mitte";
+"pattern-bottomCenterBox" = "Feld Unten Mitte";
 
-"pattern-bottomLeftBox" = "Box Unten Links";
+"pattern-bottomLeftBox" = "Feld Unten Links";
 
-"pattern-bottomRightBox" = "Box Unten Rechts";
+"pattern-bottomRightBox" = "Feld Unten Rechts";
 
 "pattern-circleIris" = "Kreis-Maske";
 
-"pattern-cornersInFourBox" = "Corners in Four Box";
+"pattern-cornersInFourBox" = "Ecken in 4er Feld";
 
 "pattern-diamondIris" = "Rauten-Maske";
 
 "pattern-horizontalBarnDoor" = "Horizontal Barn Door";
 
-"pattern-leftCenterBox" = "Box Links mittig";
+"pattern-leftCenterBox" = "Feld Links mittig";
 
 "pattern-leftToRightBar" = "Ausschnitt von Links nach Rechts";
 
 "pattern-rectangleIris" = "Rechteck-Maske";
 
-"pattern-rightCenterBox" = "Box Rechts mittig";
+"pattern-rightCenterBox" = "Feld Rechts mittig";
 
-"pattern-topCenterBox" = "Box Oben Mitte";
+"pattern-topCenterBox" = "Feld Oben Mitte";
 
-"pattern-topLeftBox" = "Box Oben Links";
+"pattern-topLeftBox" = "Feld Oben Links";
 
 "pattern-topLeftDiagonal" = "Diagonale Oben Links";
 
-"pattern-topRightBox" = "Bos Oben Rechts";
+"pattern-topRightBox" = "Feld Oben Rechts";
 
 "pattern-topRightDiagonal" = "Diagonale Oben Rechts";
 
@@ -1964,7 +1964,7 @@
 
 "set-b" = "B setzen";
 
-"set-box-settings" = "Box Einstellungen festlegen";
+"set-box-settings" = "Feld-Einstellungen festlegen";
 
 "set-default" = "Standardwert setzen";
 
@@ -2065,6 +2065,18 @@
 "shortcut-run-macro" = "Makro ausführen";
 
 "shortcut-run-macro-phrase" = "Makro ausführen";
+
+"shortcut-supersource-box-crop-phrase-osc" = "OSC Zuschnitt für Feld festlegen";
+
+"shortcut-supersource-box-full-phrase" = "Feld festlegen";
+
+"shortcut-supersource-box-full-phrase-osc" = "OSC Feld festlegen";
+
+"shortcut-supersource-box-position-phrase-osc" = "Feld-Position festlegen";
+
+"shortcut-supersource-box-position-size-crop-phrase-osc" = "OSC Feld-Position, Größe und Zuschnitt festlegen";
+
+"shortcut-supersource-box-size-phrase-osc" = "OSC Feld-Größe festlegen";
 
 "shortcut-transition-dip-phrase-osc" = "OSC Dip-Übergang setzen";
 
@@ -2282,13 +2294,13 @@
 
 "supersource-action" = "SuperSource Aktion";
 
-"supersource-boxes" = "SuperSource Boxen";
+"supersource-boxes" = "SuperSource Felder";
 
 "supersource-layouts" = "SuperSource Layouts";
 
 "supersource-macro-pause" = "Pausen beim Aufzeichnen von Makros hinzufügen";
 
-"swap-boxes" = "Boxe tauschen";
+"swap-boxes" = "Felder tauschen";
 
 "swap-program-preview" = "Programm-Vorschau tauschen";
 
@@ -2362,7 +2374,7 @@
 
 "to" = "nach";
 
-"to-all-boxes" = "Für alle Boxen";
+"to-all-boxes" = "Für alle Felder";
 
 "tools" = "Tools";
 
@@ -2510,7 +2522,7 @@
 
 "wipe-abbreviation" = "Wischen";
 
-"with-box %lld" = "mit Box %lld";
+"with-box %lld" = "mit Feld %lld";
 
 "with-transition" = "mit Übergang";
 

@@ -27,6 +27,12 @@
 "shortcut-luma-phrase" = "Set Luma USK";
 "shortcut-pattern-phrase-osc" = "OSC Set Pattern USK";
 "shortcut-pattern-phrase" = "Set Pattern USK";
+"shortcut-supersource-box-crop-phrase-osc" = "OSC Set Position For Box";
+"shortcut-supersource-box-full-phrase" = "Set Box";
+"shortcut-supersource-box-full-phrase-osc" = "OSC Set Box";
+"shortcut-supersource-box-position-phrase-osc" = "OSC Set Position For Box";
+"shortcut-supersource-box-position-size-crop-phrase-osc" = "OSC Set Position Size Crop For Box";
+"shortcut-supersource-box-size-phrase-osc" = "OSC Set Size For Box”;
 "shortcut-transition-dip-phrase-osc" = "OSC Set Dip Transition";
 "shortcut-transition-dip-phrase" = "Set Dip Transition";
 "shortcut-transition-dve-phrase-osc" = "OSC Set DVE Transition";

@@ -78,6 +78,8 @@
 
 "advanced" = "Erweitert";
 
+"advanced-settings" = "Erweiterte Einstellungen";
+
 "aesbu" = "AES/EBU";
 
 "af-on" = "AF AN";
@@ -156,7 +158,9 @@
 
 "audio-meters" = "Pegelanzeigen";
 
-"audio-monitor" = "Audiomonitor";
+"audio-monitor" = "Audio-Monitor";
+
+"audio-monitor-outputs" = "Audio-Monitor Ausgänge sind";
 
 "audio-upload" = "Audio hochladen";
 
@@ -171,6 +175,10 @@
 "auto-supersource" = "Auto nach SuperSource";
 
 "auto-video-standard" = "Auto Video-Standard";
+
+"automation" = "Automation";
+
+"automation-create" = "Automation erstellen";
 
 "automations" = "Automationen";
 
@@ -196,7 +204,7 @@
 
 "band %lld" = "Band %lld";
 
-"band-shape" = "Band-Filtern";
+"band-shape" = "Band-Filter";
 
 "bevel-in" = "Bevel In";
 
@@ -404,6 +412,12 @@
 
 "count-selected %lld" = "Ausgewählte Voreinstellungen: %lld";
 
+"counter" = "Zähler";
+
+"countdown" = "Herunterzählen";
+
+"countup" = "Hochzählen";
+
 "crop" = "Beschneiden";
 
 "crosspoint-selector" = "Übergangspunkt";
@@ -415,6 +429,8 @@
 "cursor-size" = "Größe des Cursors";
 
 "custom" = "Benutzerdefiniert";
+
+"custom-animation" = "Benutzerdefinierte Animation";
 
 "custom-rate" = "Benutzerdefinierte Rate …";
 
@@ -482,7 +498,7 @@
 
 "detail-off" = "Detail Aus";
 
-"dim" = "Verdunkeln";
+"dim" = "Dimmen";
 
 "dim-level" = "Dimmstufe";
 
@@ -500,11 +516,17 @@
 
 "disable-sleep-alert" = "Das Gerät wird nicht automatisch gesperrt während MixEffect aktiv ist";
 
+"disable" = "Deaktvieren";
+
+"disabled" = "Deaktiviert";
+
 "disconnect" = "Trennen";
 
-"dismiss-on-tap" = "Beim Antippen verwerfen";
+"dismiss-on-tap" = "Beim antippen verwerfen";
 
 "display" = "Anzeige";
+
+"display-clock" = "Uhr anzeigen";
 
 "display-status" = "Anzeigestatus";
 
@@ -531,6 +553,8 @@
 "dsk %lld" = "DSK %lld";
 
 "duplicate" = "Duplicate";
+
+"duration" = "Dauer";
 
 "dve" = "DVE";
 
@@ -642,6 +666,8 @@
 
 "effects" = "Effekte";
 
+"enable" = "Aktivieren";
+
 "enable-atem-simulator" = "ATEM Simulator aktivieren";
 
 "enable-automations" = "Automationen aktivieren";
@@ -654,6 +680,8 @@
 
 "enable-companion-feedback" = "Companion Feedback aktivieren";
 
+"enable-counter-overlay" = "Zähler einblenden (Output 1)";
+
 "enable-crop" = "Beschnitt aktivieren";
 
 "enable-flying-key" = "Flying-Key aktivieren";
@@ -665,6 +693,8 @@
 "enable-key" = "Key aktivieren";
 
 "enable-mask" = "Maske aktivieren";
+
+"enable-mix-minus" = "Mix-Minus aktivieren";
 
 "enable-osc" = "OSC aktivieren";
 
@@ -682,7 +712,9 @@
 
 "enable-visual-editor" = "Vorschaueditor";
 
-"eng-talk" = "Eng Talk";
+"eng-talk" = "Regie-Talkback";
+
+"engineering" = "Bearbeitung";
 
 "equalizer" = "Equalizer";
 
@@ -852,11 +884,13 @@
 
 "hide-descriptions" = "Beschreibung ausblenden";
 
+"hide-when-elapsed" = "Nach Ablauf ausblenden";
+
 "high-detail" = "Detail Hoch";
 
 "highlight" = "Markierung";
 
-"highlight-by" = "Markierte Box vergrößern";
+"highlight-by" = "Markiertes Feld vergrößern";
 
 "hold" = "Halten";
 
@@ -928,7 +962,7 @@
 
 "input-talkback-gain" = "Eingang Talkback Gain";
 
-"input-talkback-gain-engineering" = "Eingang Engineering Talkback Gain";
+"input-talkback-gain-engineering" = "Eingang Regie-Talkback Gain";
 
 "input1" = "Eingang 1";
 
@@ -1014,6 +1048,12 @@
 
 "interpolation-cubed" = "Würfelartig";
 
+"interpolation-ease-in-out-elastic" = "Ein-/Ausblenden elastisch";
+
+"interpolation-ease-out-bounce" = "Ausblenden federnd";
+
+"interpolation-ease-out-elastic" = "Ausblenden elastisch";
+
 "interpolation-inverse-cubed" = "Umgekehrt würfelartig";
 
 "interpolation-inverse-squared" = "Umgekehrt quadratisch";
@@ -1086,6 +1126,10 @@
 
 "less-than" = "Weniger als";
 
+"level-a" = "A";
+
+"level-b" = "B (Normal)";
+
 "licenses" = "Lizenzen";
 
 "lift" = "Lift";
@@ -1112,9 +1156,9 @@
 
 "locked" = "Gesperrt";
 
-"locked-box-sources" = "Verriegelte Boxen-Quellen";
+"locked-box-sources" = "Verriegelte Feld-Quellen";
 
-"low-latency" = "Geringe Wartezeit";
+"low-latency" = "Geringe Verzögerungszeit";
 
 "luma" = "Luminanz";
 
@@ -1151,6 +1195,8 @@
 "macro-edit" = "Makro bearbeiten";
 
 "macro-edit %lld" = "Makro %lld bearbeiten";
+
+"macro-highlight-last-run" = "Indikator zur letzten Makro-Ausführung anzeigen";
 
 "macro-icon-color" = "Symbolfarbe";
 
@@ -1274,7 +1320,7 @@
 
 "minimize" = "Minimieren";
 
-"minimize-by" = "Andere Boxen verkleinern";
+"minimize-by" = "Andere Felder verkleinern";
 
 "minimize-off-audio" = "Deaktivierte Audio-Quellen minimieren";
 
@@ -1287,6 +1333,8 @@
 "mix-abbreviation" = "Mix";
 
 "mix-effects-bus" = "Mix Effekt Bus";
+
+"mix-minus" = "Mix-Minus";
 
 "mix-option" = "Mix Option";
 
@@ -1303,6 +1351,8 @@
 "ml" = "ML";
 
 "monitor" = "Monitor";
+
+"monitor-audio" = "Monitor-Audio";
 
 "more" = "Mehr";
 
@@ -1324,11 +1374,13 @@
 
 "multiview" = "Multiview";
 
-"mute" = "Mute";
+"mute" = "Stummschalten";
 
-"mute-talkback" = "Talkback Mute";
+"mute-incoming-talkback" = "Talkback-Eingang stummschalten";
 
-"mute-talkback-engineering" = "Talkback Engineering Mute";
+"mute-talkback" = "Talkback stummschalten";
+
+"mute-talkback-engineering" = "Regie-Talkback stummschalten";
 
 "mv" = "MV";
 
@@ -1408,6 +1460,8 @@
 
 "notes" = "Notizen";
 
+"number-selected %lld" = "%lld ausgewählt";
+
 "off" = "Aus";
 
 "offset" = "Versatz";
@@ -1431,6 +1485,10 @@
 "operation-undone" = "Dieser Vorgang kann nicht rückgängig gemacht werden";
 
 "osc" = "OSC";
+
+"osc-arguments" = "OSC Parameter";
+
+"osc-path" = "OSC Pfad";
 
 "osc-port" = "OSC Port";
 
@@ -1480,35 +1538,35 @@
 
 "pattern" = "Muster";
 
-"pattern-bottomCenterBox" = "Box Unten Mitte";
+"pattern-bottomCenterBox" = "Feld Unten Mitte";
 
-"pattern-bottomLeftBox" = "Box Unten Links";
+"pattern-bottomLeftBox" = "Feld Unten Links";
 
-"pattern-bottomRightBox" = "Box Unten Rechts";
+"pattern-bottomRightBox" = "Feld Unten Rechts";
 
 "pattern-circleIris" = "Kreis-Maske";
 
-"pattern-cornersInFourBox" = "Corners in Four Box";
+"pattern-cornersInFourBox" = "Ecken in 4er Feld";
 
 "pattern-diamondIris" = "Rauten-Maske";
 
 "pattern-horizontalBarnDoor" = "Horizontal Barn Door";
 
-"pattern-leftCenterBox" = "Box Links mittig";
+"pattern-leftCenterBox" = "Feld Links mittig";
 
 "pattern-leftToRightBar" = "Ausschnitt von Links nach Rechts";
 
 "pattern-rectangleIris" = "Rechteck-Maske";
 
-"pattern-rightCenterBox" = "Box Rechts mittig";
+"pattern-rightCenterBox" = "Feld Rechts mittig";
 
-"pattern-topCenterBox" = "Box Oben Mitte";
+"pattern-topCenterBox" = "Feld Oben Mitte";
 
-"pattern-topLeftBox" = "Box Oben Links";
+"pattern-topLeftBox" = "Feld Oben Links";
 
 "pattern-topLeftDiagonal" = "Diagonale Oben Links";
 
-"pattern-topRightBox" = "Bos Oben Rechts";
+"pattern-topRightBox" = "Feld Oben Rechts";
 
 "pattern-topRightDiagonal" = "Diagonale Oben Rechts";
 
@@ -1700,7 +1758,11 @@
 
 "pro-line" = "Pro-Line";
 
-"prod-talk" = "Prod Talk";
+"prod-talk" = "Produktion-Talkback";
+
+"program-audio" = "Programm-Audio";
+
+"production" = "Produktion";
 
 "profile-error-save" = "Fehler beim Speichern des Profils";
 
@@ -1752,6 +1814,8 @@
 
 "reconnect" = "Verbindung wiederherstellen";
 
+"reconnect-forever" = "Permanent wiederverbinden";
+
 "reconnect-required" = "Erneute Verbindung erforderlich";
 
 "record" = "Aufnahme";
@@ -1774,7 +1838,15 @@
 
 "remaining" = "Verbleibend";
 
+"remote" = "Fernsteuerung";
+
+"remote-gvg-100" = "Externe Steuerung über GVG 100";
+
+"remote-header" = "Verwende RS-422 Anschluss für ...";
+
 "remote-hyperdeck-not-available" = "Fernsteuerung für dieses HyperDeck nicht aktiv.";
+
+"remote-ptz-visca" = "PTZ Steuerung über VISCA";
 
 "remote-webview" = "Remote Webansicht";
 
@@ -1894,6 +1966,14 @@
 
 "save-preset-icon" = "Symbol für Voreinstellung speichern";
 
+"sdi-3g-output" = "3G SDI-Ausgang";
+
+"sdi-input %lld" = "SDI-Eingang %lld";
+
+"sdi-output %lld" = "SDI-Ausgang %lld";
+
+"set-counter" = "Zähler setzen";
+
 "search" = "Suchen";
 
 "search-clear" = "Suche löschen";
@@ -1912,9 +1992,15 @@
 
 "select" = "Auswählen";
 
+"select-all" = "Alles Auswählen";
+
 "select-bus" = "Bus auswählen";
 
 "select-macro" = "Makro auswählen";
+
+"select-none" = "Nichts Auswählen";
+
+"send-osc-message" = "OSC Nachricht senden";
 
 "server" = "Server";
 
@@ -1940,7 +2026,7 @@
 
 "set-b" = "B setzen";
 
-"set-box-settings" = "Box Einstellungen festlegen";
+"set-box-settings" = "Feld-Einstellungen festlegen";
 
 "set-default" = "Standardwert setzen";
 
@@ -1994,6 +2080,14 @@
 
 "shortcut-change-transition-phrase" = "Übergangsart zu Mix einstellen";
 
+"shortcut-chroma-advanced-phrase-osc" = "OSC Chroma erweitert für USK setzen";
+
+"shortcut-chroma-advanced-phrase" = "Chroma erweitert für USK setzen";
+
+"shortcut-color-generator-phrase-osc" = "OSC Farbgenerator setzen";
+
+"shortcut-color-generator-phrase" = "Farbgenerator setzen";
+
 "shortcut-connect" = "Mit MixEffect verbinden";
 
 "shortcut-connect-description" = "Mit einem Mischer in MixEffect verbinden.";
@@ -2001,6 +2095,14 @@
 "shortcut-cut" = "Schnitt";
 
 "shortcut-cut-phrase" = "Schnitt ausführen";
+
+"shortcut-dsk-phrase-osc" = "OSC DSK setzen";
+
+"shortcut-dsk-phrase" = "DSK setzen";
+
+"shortcut-dve-phrase-osc" = "OSC DVE für USK setzen";
+
+"shortcut-dve-phrase" = "DVE für USK setzen";
 
 "shortcut-export-streaming" = "Streaming XML Datei exportieren";
 
@@ -2010,6 +2112,14 @@
 
 "shortcut-fade-to-black-phrase" = "Schwarzblende";
 
+"shortcut-luma-phrase-osc" = "OSC Luma für USK setzen";
+
+"shortcut-luma-phrase" = "Luma für USK setzen";
+
+"shortcut-pattern-phrase-osc" = "OSC Muster für USK setzen";
+
+"shortcut-pattern-phrase" = "Muster für USK setzen";
+
 "shortcut-preview-transition" = "Vorschau für Übergang";
 
 "shortcut-preview-transition-phrase" = "Vorschau-Modus für Übergang wechseln";
@@ -2017,6 +2127,40 @@
 "shortcut-run-macro" = "Makro ausführen";
 
 "shortcut-run-macro-phrase" = "Makro ausführen";
+
+"shortcut-supersource-box-crop-phrase-osc" = "OSC Zuschnitt für Feld festlegen";
+
+"shortcut-supersource-box-full-phrase" = "Feld festlegen";
+
+"shortcut-supersource-box-full-phrase-osc" = "OSC Feld festlegen";
+
+"shortcut-supersource-box-position-phrase-osc" = "Feld-Position festlegen";
+
+"shortcut-supersource-box-position-size-crop-phrase-osc" = "OSC Feld-Position, Größe und Zuschnitt festlegen";
+
+"shortcut-supersource-box-size-phrase-osc" = "OSC Feld-Größe festlegen";
+
+"shortcut-transition-dip-phrase-osc" = "OSC Dip-Übergang setzen";
+
+"shortcut-transition-dip-phrase" = "Dip-Übergang setzen";
+
+"shortcut-transition-dve-phrase-osc" = "OSC DVE-Übergang setzen";
+
+"shortcut-transition-dve-phrase" = "DVE-Übergang setzen";
+
+"shortcut-transition-mix-phrase-osc" = "OSC Mix-Übergang setzen";
+
+"shortcut-transition-mix-phrase" = "Mix-Übergang setzen";
+
+"shortcut-transition-sting-phrase-osc" = "OSC Stinger-Übergang setzen";
+
+"shortcut-transition-sting-phrase" = "Stinger-Übergang setzen";
+
+"shortcut-transition-wipe-phrase-osc" = "OSC Wisch-Übergang setzen";
+
+"shortcut-transition-wipe-phrase" = "Wisch-Übergang setzen";
+
+"shortcut" = "Tastaturkürzel";
 
 "shortcuts" = "Tastaturkürzel";
 
@@ -2100,6 +2244,8 @@
 
 "ssrc-slower" = "Übergangs-Geschwindigkeit verlangsamen";
 
+"start-from" = "Starten ab";
+
 "start-trial" = "30-Tage testen";
 
 "startup-state" = "Start-Zustand";
@@ -2111,6 +2257,10 @@
 "startup-state-save" = "Start-Zustand speichern";
 
 "startup-state-save-confirm" = "Die aktuellen Einstellungen werden beim Start des ATEM Mischers geladen.";
+
+"start" = "Start";
+
+"stereo" = "Stereo";
 
 "stereo-simulation" = "Stereo Simulation";
 
@@ -2210,13 +2360,13 @@
 
 "supersource-action" = "SuperSource Aktion";
 
-"supersource-boxes" = "SuperSource Boxen";
+"supersource-boxes" = "SuperSource Felder";
 
 "supersource-layouts" = "SuperSource Layouts";
 
 "supersource-macro-pause" = "Pausen beim Aufzeichnen von Makros hinzufügen";
 
-"swap-boxes" = "Boxe tauschen";
+"swap-boxes" = "Felder tauschen";
 
 "swap-program-preview" = "Programm-Vorschau tauschen";
 
@@ -2250,6 +2400,10 @@
 
 "talkback" = "Talkback";
 
+"talkback %@" = "Talkback - %@";
+
+"talkback-enable" = "Talkback auf allen SDI-Kanälen aktivieren";
+
 "telephoto" = "Teleobjektiv";
 
 "testing" = "Testing";
@@ -2274,6 +2428,24 @@
 
 "tie" = "Tie";
 
+"time-1-minute" = "1 Minute";
+
+"time-2-minutes" = "2 Minuten";
+
+"time-3-minutes" = "3 Minuten";
+
+"time-5-minutes" = "5 Minuten";
+
+"time-10-minutes" = "10 Minuten";
+
+"time-15-minutes" = "15 Minuten";
+
+"time-30-minutes" = "30 Minuten";
+
+"time-45-minutes" = "45 Minuten";
+
+"time-1-hour" = "1 Stunde";
+
 "time-elapsed" = "Abgelaufene Zeit";
 
 "time-of-day" = "Uhrzeit";
@@ -2290,7 +2462,7 @@
 
 "to" = "nach";
 
-"to-all-boxes" = "Für alle Boxen";
+"to-all-boxes" = "Für alle Felder";
 
 "tools" = "Tools";
 
@@ -2362,6 +2534,8 @@
 
 "use-box-sources" = "Quellen der Felder verwenden";
 
+"use-custom-animation" = "Benutzerdefinierte Animation verwenden";
+
 "use-custom-speed" = "Individuelle Geschwindigkeit verwenden";
 
 "use-cut-bus" = "Cut-Bus verwenden";
@@ -2388,15 +2562,19 @@
 
 "video-follows-audio" = "Video-folgt-Audio";
 
-"video-mode" = "Video-Standard";
+"video-mode" = "Video-Modus";
 
-"video-mode-change" = "Wenn Sie den Video-Standard ändern, werden unter Umständen Bilsdsequenzen auis dem Media-Pool gelöscht.";
+"video-mode-change" = "Wenn Sie den Video-Modus ändern, werden eventuell Bilsdsequenzen aus dem Media-Pool gelöscht.";
 
-"video-out" = "Vid Out";
+"video-mode-downconvert" = "Video-Modus: Herunterkonvertiert";
+
+"video-mode-multiview" = "Video-Modus: Mehrfachansicht";
+
+"video-out" = "Video Out";
 
 "view-all" = "Alle Voreinstellungen anzeigen";
 
-"view-control" = "View Control";
+"view-control" = "Anzeigesteuerung";
 
 "view-only-mode" = "Nur Anzeigemodus aktivieren";
 
@@ -2436,7 +2614,7 @@
 
 "wipe-abbreviation" = "Wischen";
 
-"with-box %lld" = "mit Box %lld";
+"with-box %lld" = "mit Feld %lld";
 
 "with-transition" = "mit Übergang";
 

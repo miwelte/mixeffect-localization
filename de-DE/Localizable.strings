@@ -786,8 +786,6 @@
 
 "expander" = "Expander";
 
-"experimental-settings" = "Versuchseinstellungen";
-
 "export-all-presets" = "Alle Voreinstellungen exportieren";
 
 "export-preset" = "Voreinstellung exportieren";
@@ -2449,24 +2447,6 @@
 "thumbnail-small" = "Klein (96 x 54)";
 
 "tie" = "Tie";
-
-"time-1-minute" = "1 Minute";
-
-"time-2-minutes" = "2 Minuten";
-
-"time-3-minutes" = "3 Minuten";
-
-"time-5-minutes" = "5 Minuten";
-
-"time-10-minutes" = "10 Minuten";
-
-"time-15-minutes" = "15 Minuten";
-
-"time-30-minutes" = "30 Minuten";
-
-"time-45-minutes" = "45 Minuten";
-
-"time-1-hour" = "1 Stunde";
 
 "time-elapsed" = "Abgelaufene Zeit";
 

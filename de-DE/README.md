@@ -49,15 +49,6 @@
 "start-from" = "Start From";
 "talkback %@" = "Talkback - %@";
 "talkback-enable" = "Enable all talkback on SDI inputs and outputs";
-"time-1-hour" = "1 Hour";
-"time-1-minute" = "1 Minute";
-"time-10-minutes" = "10 Minutes";
-"time-15-minutes" = "15 Minutes";
-"time-2-minutes" = "2 Minutes";
-"time-3-minutes" = "3 Minutes";
-"time-30-minutes" = "30 Minutes";
-"time-45-minutes" = "45 Minutes";
-"time-5-minutes" = "5 Minutes";
 "update-available" = "Update Available";
 "video-mode-downconvert" = "Down Convert Video Mode";
 "video-mode-multiview" = "Multiview Video Mode";

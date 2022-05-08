@@ -58,6 +58,8 @@
 
 "about" = "Über MixEffect";
 
+"about-pro" = "Über MixEffect Pro";
+
 "accent-color" = "Akzentfarbe";
 
 "action" = "Aktion";
@@ -93,6 +95,8 @@
 "all-off" = "Alle aus";
 
 "all-on" = "Alle an";
+
+"allow-osc-in-view-only-mode" = "OSC im Modus 'Nur Ansicht' zulassen";
 
 "allow-trigger-when-source-off-air" = "Ansteuern, auch wenn Quelle 'Off Air' ist";
 
@@ -176,9 +180,13 @@
 
 "auto-video-standard" = "Auto Video-Standard";
 
+"automation-create" = "Automation erstellen";
+
 "automation" = "Automation";
 
-"automation-create" = "Automation erstellen";
+"automations-box %lld" = "Automations-Feld %lld";
+
+"automations-preset" = "Automations-Voreinstellung";
 
 "automations" = "Automationen";
 
@@ -410,6 +418,8 @@
 
 "copy-url" = "URL kopieren";
 
+"copy-settings" = "Einstellungen kopieren";
+
 "count-selected %lld" = "Ausgewählte Voreinstellungen: %lld";
 
 "counter" = "Zähler";
@@ -424,7 +434,7 @@
 
 "current-mixeffect" = "Aktueller M/E";
 
-"current-preset" = "Current Preset";
+"current-preset" = "Aktuelle Voreinstellung";
 
 "cursor-size" = "Größe des Cursors";
 
@@ -697,6 +707,8 @@
 "enable-mix-minus" = "Mix-Minus aktivieren";
 
 "enable-osc" = "OSC aktivieren";
+
+"enable-osc-in-settings" = "OSC muss in MixEffect Einstellungen > Automationen aktiviert werden";
 
 "enable-osc-server" = "OSC Server aktivieren";
 
@@ -1452,6 +1464,8 @@
 
 "next-transition" = "Nächster Übergang";
 
+"no-network-connection" = "Keine Netzwerk-Verbindung";
+
 "no-media-selected" = "Keine Medien ausgewählt";
 
 "no-panels" = "Für diese Seite sind keine Bedienelemente definiert";
@@ -1938,6 +1952,8 @@
 
 "review" = "MixEffect bewerten";
 
+"review-pro" = "MixEffect Pro bewerten";
+
 "rgb" = "RGB";
 
 "right" = "Rechts";
@@ -2104,6 +2120,8 @@
 
 "shortcut-dve-phrase" = "DVE für USK setzen";
 
+"shortcut-dve-size-position-rotation-phrase-osc" = "OSC DVE Größe Position Rotation USK setzen";
+
 "shortcut-export-streaming" = "Streaming XML Datei exportieren";
 
 "shortcut-export-streaming-description" = "Einstellungen der Streaming-Services ganz oder teilweise exportieren.";
@@ -2208,7 +2226,11 @@
 
 "sort-ascending" = "Aufsteigend sortieren";
 
+"sort-audio-by-state" = "Audio-Quellen nach Status anordnen";
+
 "sort-audio-sources" = "Audio-Quellen anordnen";
+
+"sort-audio-sources-edit" = "Sortierung der Audio-Quellen bearbeiten";
 
 "sort-descending" = "Absteigend sortieren";
 
@@ -2521,6 +2543,8 @@
 "untitled-page" = "Seite ohne Titel";
 
 "unused" = "Nicht verwendete";
+
+"update-available" = "Update vervügbar";
 
 "update-preset" = "Voreinstellung aktualisieren";
 
